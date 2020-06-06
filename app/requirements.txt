@@ -8,4 +8,4 @@ pafy==0.5.4
 youtube-dl==2018.11.7
 setuptools==39.0.1
 dj-database-url==0.5.0
-Django==2.1.5
+Django==2.2.13
